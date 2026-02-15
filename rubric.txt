@@ -1,0 +1,68 @@
+Instructions
+DONE In GitHub Desktop,
+DONE create a new repository called "fieldandfeast"
+DONE Commit it
+DONE Push it
+
+
+In VS Code, code the HTML
+Add the contentLinks to an external site. to index.html
+Wrap each, individual piece of the content in an HTML5 tag
+Wrap each group of content in an HTML5 sectioning content tag 
+
+ValidateLinks to an external site. your code and fix all errors and warnings
+ValidateLinks to an external site. your outline and fix all missing headings and information architecture errors
+In VS Code, code the CSS based on the mockups
+Style your webpage according to the mockups
+You MUST have the following structure, labeled with comments, in order
+/* CSS BY (add your name) */
+/* IMPORTED FONTS */
+/* CSS RESET */
+/* ROOT VARIABLES */
+/* GLOBAL STYLES (mobile first/small) */
+/* MEDIA QUERY (medium) */
+/* MEDIA QUERY (large) */
+/* MEDIA QUERY (xl) */
+In GitHub Desktop, 
+Commit changes
+Push them up to GitHub
+In GitHub Pages,
+Publish your files
+
+
+Field & Feast Rubric
+Validated HTML5
+Returns no error and no warnings at https://validator.w3.org/nu/Links to an external site.
+
+Semantic HTML5/Information Architecture
+The Heading structure returns a logical order fromhttps://validator.w3.org/nu/
+
+Grid Layout
+Demonstrates understanding of grid layout
+
+Media Queries
+Demonstrates understanding of media queries-- syntax, breakpoints
+
+Mobile First
+The Global Style is for mobile first
+
+Responsive Images
+Gallery images are responsive
+
+Published URL
+Published URL rather than the repository URL
+
+Breakpoints
+medium- 600px
+large- 900px
+x-large- 1200px
+
+CSS Document Structure
+/* CSS BY NAME */
+/* IMPORTED FONTS */
+/* CSS REST */
+/* ROOT VARIABLES */
+/* GLOBAL STYLES (mobile first/small) */
+/* MEDIA QUERY MEDIUM */
+/* MEDIA QUERY LARGE */
+/* MEDIA QUERY X-LARGE */
