@@ -19,7 +19,7 @@ DONE Validate your outline and fix all missing headings and information architec
 DONE /* CSS BY (add your name) */
 DONE /* IMPORTED FONTS */
 DONE /* CSS RESET */
-/* ROOT VARIABLES */
+DONE /* ROOT VARIABLES */
 /* GLOBAL STYLES (mobile first/small) */
 /* MEDIA QUERY (medium) */
 /* MEDIA QUERY (large) */
