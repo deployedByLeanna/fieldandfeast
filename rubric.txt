@@ -5,13 +5,14 @@ DONE Commit it
 DONE Push it
 
 
-In VS Code, code the HTML
-Add the contentLinks to an external site. to index.html
-Wrap each, individual piece of the content in an HTML5 tag
-Wrap each group of content in an HTML5 sectioning content tag 
+DONE In VS Code, code the HTML
+DONE Add the content to index.html
+DONE Wrap each, individual piece of the content in an HTML5 tag
+DONE Wrap each group of content in an HTML5 sectioning content tag 
 
-ValidateLinks to an external site. your code and fix all errors and warnings
-ValidateLinks to an external site. your outline and fix all missing headings and information architecture errors
+DONE Validate your code and fix all errors and warnings
+DONE Validate your outline and fix all missing headings and information architecture errors
+
 In VS Code, code the CSS based on the mockups
 Style your webpage according to the mockups
 You MUST have the following structure, labeled with comments, in order
