@@ -13,12 +13,12 @@ DONE Wrap each group of content in an HTML5 sectioning content tag
 DONE Validate your code and fix all errors and warnings
 DONE Validate your outline and fix all missing headings and information architecture errors
 
-In VS Code, code the CSS based on the mockups
-Style your webpage according to the mockups
-You MUST have the following structure, labeled with comments, in order
-/* CSS BY (add your name) */
-/* IMPORTED FONTS */
-/* CSS RESET */
+        In VS Code, code the CSS based on the mockups
+        Style your webpage according to the mockups
+        You MUST have the following structure, labeled with comments, in order
+DONE /* CSS BY (add your name) */
+DONE /* IMPORTED FONTS */
+DONE /* CSS RESET */
 /* ROOT VARIABLES */
 /* GLOBAL STYLES (mobile first/small) */
 /* MEDIA QUERY (medium) */
