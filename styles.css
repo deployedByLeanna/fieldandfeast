@@ -160,7 +160,11 @@ h3 {
 
     box-shadow: var(--olive-green) 0px 5px 15px;
 }
-
+ul {
+  list-style-type: disc;
+  list-style-position: outside;
+  padding-left: 1.25rem;
+}
 #gallery figure{
     /*for ease of visibility during development
     border: var(--champagne-gold) 2px solid;*/
