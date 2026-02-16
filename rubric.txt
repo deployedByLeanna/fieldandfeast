@@ -49,7 +49,7 @@ DONE     Demonstrates understanding of media queries-- syntax, breakpoints
 DONE     The Global Style is for mobile first
 
     Responsive Images
-    Gallery images are responsive
+DONE    Gallery images are responsive
 
     Published URL
     Published URL rather than the repository URL
