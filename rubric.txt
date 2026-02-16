@@ -22,8 +22,9 @@ DONE /* CSS RESET */
 DONE /* ROOT VARIABLES */
 DONE /* GLOBAL STYLES (mobile first/small) */
 DONE /* MEDIA QUERY (medium) */
-/* MEDIA QUERY (large) */
-/* MEDIA QUERY (xl) */
+DONE /* MEDIA QUERY (large) */
+DONE /* MEDIA QUERY (xl) */
+
 In GitHub Desktop, 
 Commit changes
 Push them up to GitHub
@@ -32,38 +33,38 @@ Publish your files
 
 
 Field & Feast Rubric
-Validated HTML5
-Returns no error and no warnings at https://validator.w3.org/nu/Links to an external site.
+DONE     Validated HTML5
+DONE     Returns no error and no warnings at https://validator.w3.org/nu/Links to an external site.
 
-Semantic HTML5/Information Architecture
-The Heading structure returns a logical order fromhttps://validator.w3.org/nu/
+    Semantic HTML5/Information Architecture
+DONE     The Heading structure returns a logical order fromhttps://validator.w3.org/nu/
 
-Grid Layout
-Demonstrates understanding of grid layout
+    Grid Layout
+DONE     Demonstrates understanding of grid layout
 
-Media Queries
-Demonstrates understanding of media queries-- syntax, breakpoints
+    Media Queries
+DONE     Demonstrates understanding of media queries-- syntax, breakpoints
 
-Mobile First
-The Global Style is for mobile first
+    Mobile First
+DONE     The Global Style is for mobile first
 
-Responsive Images
-Gallery images are responsive
+    Responsive Images
+    Gallery images are responsive
 
-Published URL
-Published URL rather than the repository URL
+    Published URL
+    Published URL rather than the repository URL
 
-Breakpoints
-medium- 600px
-large- 900px
-x-large- 1200px
+    Breakpoints
+DONE     medium- 600px
+DONE     large- 900px
+DONE     x-large- 1200px
 
-CSS Document Structure
-/* CSS BY NAME */
-/* IMPORTED FONTS */
-/* CSS REST */
-/* ROOT VARIABLES */
-/* GLOBAL STYLES (mobile first/small) */
-/* MEDIA QUERY MEDIUM */
-/* MEDIA QUERY LARGE */
-/* MEDIA QUERY X-LARGE */
+    CSS Document Structure
+DONE     /* CSS BY NAME */
+DONE     /* IMPORTED FONTS */
+DONE     /* CSS REST */
+DONE     /* ROOT VARIABLES */
+DONE     /* GLOBAL STYLES (mobile first/small) */
+DONE     /* MEDIA QUERY MEDIUM */
+DONE     /* MEDIA QUERY LARGE */
+DONE     /* MEDIA QUERY X-LARGE */
