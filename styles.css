@@ -85,3 +85,144 @@ table {
 
     font-family: 'Playfair Display', serif;
 }
+
+/* GLOBAL STYLES (mobile first/small) */
+body {
+
+    color: var(--dark-charcoal);
+    line-height: 1.6;
+}
+
+p {
+    font-size: 1rem;
+}
+
+header {
+    text-align: center;
+    color: var(--soft-white);
+    background-color: var(--midnight-blue);
+    padding: 20px;
+}
+header img {
+    max-width: 50vw;
+    max-height: 300px;
+}
+
+h1 {
+    font-size: 3.5rem;
+    font-weight: bold;
+}
+
+nav {
+    background-color: var(--champagne-gold);
+    text-align: center;
+    padding: 0.25rem 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: var(--midnight-blue);
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+main {
+    padding: 2em;
+}
+
+section {
+    margin: 1em 0;
+    border-bottom: var(--champagne-gold) 2px solid;
+    padding-bottom: 2em;
+}
+
+h2 {
+    font-size: 2.5rem;
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+#offerings section {
+    border-bottom: none;
+
+    padding: 10px;
+    border-radius: 10px;
+
+    background-color: var(--olive-green);
+    color: var(--soft-white);
+
+    box-shadow: var(--olive-green) 0px 5px 15px;
+}
+
+#gallery figure{
+    border: var(--champagne-gold) 2px solid;
+    border-radius: 10px;
+
+    box-shadow: var(--dark-charcoal) 0px 1px 5px;
+    margin: 20px 0;
+}
+img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+
+}
+
+figcaption {
+    text-align: center;
+    padding: 0.5em;
+    font-style: italic;
+    color: var(--dark-charcoal);
+}
+
+#full_gallery_link {
+    text-align: center;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: var(--olive-green);
+}
+
+#full_gallery_link a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: var(--soft-white);
+}
+
+
+footer {
+    padding: 20px;
+    text-align: center;
+    background-color: var(--midnight-blue);
+    color: var(--soft-white);
+}
+
+footer a {
+    text-decoration: none;
+    color: var(--soft-white);
+
+}
+
+address {
+    margin-bottom: 20px;
+}
+
+#email_link {
+    display: block;
+    color: var(--champagne-gold);
+    font-weight: bold;
+}
+
+.socials {
+    color: var(--champagne-gold);
+    font-weight: bold;
+
+}
