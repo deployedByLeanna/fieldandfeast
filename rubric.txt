@@ -21,7 +21,7 @@ DONE /* IMPORTED FONTS */
 DONE /* CSS RESET */
 DONE /* ROOT VARIABLES */
 DONE /* GLOBAL STYLES (mobile first/small) */
-/* MEDIA QUERY (medium) */
+DONE /* MEDIA QUERY (medium) */
 /* MEDIA QUERY (large) */
 /* MEDIA QUERY (xl) */
 In GitHub Desktop, 
